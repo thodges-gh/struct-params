@@ -1,0 +1,12 @@
+{
+  "name": "Struct-Test2",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "truffle build",
+    "test": "truffle test --network test"
+  },
+  "dependencies": {
+    "eth-gas-reporter": "^0.1.12"
+  }
+}
